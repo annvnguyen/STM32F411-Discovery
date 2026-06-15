@@ -1,8 +1,22 @@
 # STM32F411 Discovery Projects
 
-This repository contains a series of embedded systems projects built using the **STM32F411 Discovery Board**, aimed to gain a better understanding of developing and debugging low-level register programming.
+A collection of embedded systems projects developed using the **STM32F411 Discovery Board**, focused on understanding low-level ARM Cortex-M programming, peripheral control, and debugging techniques.
 
-## Purpose
-- To understand the **ARM Cortex-M** architecture, *CMSIS standards**, and **peripheral control**
-- To develop strong foundations in **bare-metal embedded systems programming**
+## Overview
+The primary goal is to build a strong foundation in embedded systems development by working directly with registers and hardware.
 
+Through these projects, I explore:
+- ARM Cortex-M4 architecture
+- CMSIS standards
+- STM32 peripheral control (GPIO, UART, SPI, I2C, timer, ADC, etc.)
+- Bare-metal firmware development
+
+## Project Structure
+| Project | Description |
+|----------|-------------|
+| [01 LED Blinking](./LED_BLINK) | Basic GPIO output control and register-level programming |
+
+## Toolchain
+- **Microcontroller:** STMF411 Discovery Board
+- **IDE:** (STM32CUBEIDE / VSCode)
+- **Language:** C
