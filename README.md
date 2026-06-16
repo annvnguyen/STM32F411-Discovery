@@ -14,7 +14,8 @@ Through these projects, I explore:
 ## Project Structure
 | Project | Description |
 |----------|-------------|
-| [01 LED Blinking](./LED_BLINK) | Basic GPIO output control and register-level programming |
+| [01 LED Blinking](./LED_BLINK) | Basic GPIO input/output control and register-level programming |
+| [02 Button Interrupt](./EXTI_INTERRUPT) | External interrupt-based GPIO input handling using EXTI and NVIC |
 
 ## Toolchain
 - **Microcontroller:** STMF411 Discovery Board
