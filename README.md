@@ -16,6 +16,7 @@ Through these projects, I explore:
 |----------|-------------|
 | [01 LED Blinking](./LED_BLINK) | Basic GPIO input/output control and register-level programming |
 | [02 Button Interrupt](./EXTI_INTERRUPT) | External interrupt-based GPIO input handling using EXTI and NVIC |
+| [03 SysTick Delay](./TIMER) | Combines GPIO control and the reusable SysTick delay function |
 
 ## Toolchain
 - **Microcontroller:** STMF411 Discovery Board
