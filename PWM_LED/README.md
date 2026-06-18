@@ -1,4 +1,4 @@
-# STM32 PWM LED Brightness Control
+# STM32 PWM-based LED Brightness Control
 
 **Description**
 
