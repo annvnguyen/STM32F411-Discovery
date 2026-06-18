@@ -19,6 +19,7 @@ Through these projects, I explore:
 | [03 SysTick Delay](./TIMER) | Combines GPIO control and the reusable SysTick delay function |
 | [04 General-Purpose Timer](./GEN_TIM) | Uses TIM2 to generate a 1 Hz time base and toggle an LED at regular intervals |
 | [05 PWM LED Fade](./PWM_LED) | Uses TIM4 PWM output to smoothly vary LED brightness by adjusting the duty cycle |
+| [06 UART](./UART_TX) | Demonstrates UART serial communication by transmitting data from the microcontroller to a host device |
 
 ## Toolchain
 - **Microcontroller:** STMF411 Discovery Board
